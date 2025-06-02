@@ -17,7 +17,7 @@ Study Hub es una Webapp, diseñanada bajo arquitectura monolitica, bases de dato
 
 ## Frontend
 <hr>
-<h2 align="center">Languages & Frameworks <\h2>
+<h2 align="center">Languages & Frameworks </h2>
 <p align="center">
   <code><img title="HTML5" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/html5.svg"></code>
   <code><img title="CSS" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/css.svg"></code>
@@ -25,4 +25,4 @@ Study Hub es una Webapp, diseñanada bajo arquitectura monolitica, bases de dato
   <code><img title="JQuery" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/jquery.svg"></code>
   <code><img title="Java" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/java.svg"></code>
   <code><img title="JSON" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/json.svg"></code>
-  <\p>
+  </p>
