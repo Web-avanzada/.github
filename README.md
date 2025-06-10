@@ -26,3 +26,20 @@ Study Hub es una Webapp, diseñanada bajo arquitectura monolitica, bases de dato
   <code><img title="Java" height="25" src="https://raw.githubusercontent.com/Web-avanzada/.github/35bce9560dd8ba87e1735c8812ad0bb7589fb864/Img/java-svgrepo-com.svg"></code>
   <code><img title="JSON" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/json.svg"></code>
   </p>
+
+
+### 2. **En HTML + CSS (para web o documentación)**:
+```html
+<div style="font-family: Arial, sans-serif; max-width: 500px; margin: 0 auto;">
+  <h2 style="color: #2c3e50;">📊 Progreso del Proyecto</h2>
+  <p><strong>Tareas completadas:</strong> 18/25</p>
+  <p><strong>Porcentaje:</strong> 75%</p>
+  
+  <div style="background: #f0f0f0; border-radius: 10px; height: 20px; margin: 10px 0;">
+    <div style="background: #27ae60; width: 75%; height: 100%; border-radius: 10px; text-align: center; color: white; font-size: 12px; line-height: 20px;">
+      75%
+    </div>
+  </div>
+  
+  <p style="font-size: 14px; color: #7f8c8d;">📌 <strong>Última actualización:</strong> 2024-06-10</p>
+</div>
